@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic html conveys meaning about web content. A <table> tag tells both a developer and a computer that this is a table.  Whereas a <div> tag tells a developer and a computer nothing about the content.
+Semantic html conveys meaning about web content. A table tag tells both a developer and a computer that this is a table.  Whereas a div tag tells a developer and a computer nothing about the content.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
