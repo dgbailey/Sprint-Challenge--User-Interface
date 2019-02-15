@@ -110,12 +110,12 @@ header nav a:hover{
 
 
 .middle-content {
-    margin-bottom: 20px;
-    border-bottom: 1px dashed black;
+    
+    
     display:flex;
     
     justify-content: space-around;
-    border:1px solid blue;
+    
     flex-wrap: wrap;
 }
 
@@ -129,14 +129,19 @@ header nav a:hover{
 .middle-content .text-box {
     width:370px;
     
-    margin-bottom:20px;
+    margin-bottom:50px;
     
   
     
     border-bottom: 1px black dotted;
 }
+
+.middle-content h2{
+    margin-top:15px;
+}
 .text-bottom{
-    padding:20px;
+    padding:0px 20px;
+    margin-bottom: 40px;
 }
 
 footer {
